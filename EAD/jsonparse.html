@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h2>Convert JSON to Object</h2>
+	<p id="name"></p>
+	<p id="birth"></p>
+	<p id="city"></p>
+
+	<script>
+		var text='{"full name":"John","birth":"1999/9/9","city":"New York"}';
+		var obj=JSON.parse(text);
+		console.log(obj);
+		document.getElementById("name").innerHTML=obj['full name'];
+		document.getElementById("birth").innerHTML=obj['birth'];
+		document.getElementById("city").innerHTML=obj.city;
+
+	</script>
+
+</body>
+</html>

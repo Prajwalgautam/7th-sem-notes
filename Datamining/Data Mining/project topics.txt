@@ -1,0 +1,26 @@
+1. Association Rule
+2. Naive Base Classifier
+3. k-means Algorithm
+4. FP tree
+5. Decision tree by information gain
+6. document ranking by using TF*IDF
+7. Other project by your own idea are welcome but it should be related to Data Mining
+
+
+
+To be submission
+-------------------
+1. Report
+2. Presentation Slide
+3. Source Code
+4. Project Demo
+
+
+
+Report Structure
+__________________
+
+1. Introduction: About what you are going to do project
+2. Litureture Review: What is done by other <previous paper> in your project.
+3. Output: Dataset, shapshot of output
+Dead Line: 
